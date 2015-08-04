@@ -53,7 +53,7 @@ $contacts = $db->all();
             <caption>通讯录</caption>
             <thead>
             <tr>
-                <th>###***</th>
+                <th>******</th>
                 <th>姓名</th>
                 <th>电话</th>
                 <th>操作</th>
